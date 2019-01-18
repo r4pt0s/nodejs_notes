@@ -1,5 +1,3 @@
-console.log("Starting app.js");
-
 const yargs = require("yargs");
 
 const notes = require("./notes.js");
