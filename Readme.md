@@ -11,19 +11,19 @@ Navigate into the directory and run
 
 ### Available Commands
 
-- add => Add a new note
+- `add` => Add a new note
 
   - Flags
-    - --title, -t => Note title
-    - --body, -b => Note body content
+    - `--title`, `-t` => Note title
+    - `--body`, `-b` => Note body content
 
-- list => List all notes
+- `list` => List all notes
 
-- read => Read a note
+- `read` => Read a note
 
   - Flags
-    - --title, -t => Search for a specific note
+    - `--title`, `-t` => Search for a specific note
 
-- remove => Remove a specific note
+- `remove` => Remove a specific note
   - Flags
-    - --title, -t => Specifiy the title of the note which you want to delete
+    - `--title`, `-t` => Specifiy the title of the note which you want to delete
